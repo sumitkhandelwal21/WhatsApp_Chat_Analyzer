@@ -1,9 +1,3 @@
-[server]
-port = $PORT
-enableCORS = false
-headless = true
-
-
 [theme]
 primaryColor="#e00a0a"
 backgroundColor="#02370a"
